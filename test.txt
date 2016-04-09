@@ -1,3 +1,5 @@
 this is a test for encode
 
 new a line
+
+git checkout -- file  test
